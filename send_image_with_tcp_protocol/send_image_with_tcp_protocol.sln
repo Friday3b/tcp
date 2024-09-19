@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "send_image_with_tcp_protocol", "send_image_with_tcp_protocol\send_image_with_tcp_protocol.csproj", "{E88BAB20-484E-4C25-B0D6-3A4AD616078E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clientside", "clientside\clientside.csproj", "{0BD2CCF3-5C2C-4D2B-94D2-64C7F0D43A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88BAB20-484E-4C25-B0D6-3A4AD616078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88BAB20-484E-4C25-B0D6-3A4AD616078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88BAB20-484E-4C25-B0D6-3A4AD616078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88BAB20-484E-4C25-B0D6-3A4AD616078E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD2CCF3-5C2C-4D2B-94D2-64C7F0D43A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD2CCF3-5C2C-4D2B-94D2-64C7F0D43A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD2CCF3-5C2C-4D2B-94D2-64C7F0D43A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD2CCF3-5C2C-4D2B-94D2-64C7F0D43A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF91EF0-9A85-4A59-B520-1F4612A6F764}
+	EndGlobalSection
+EndGlobal

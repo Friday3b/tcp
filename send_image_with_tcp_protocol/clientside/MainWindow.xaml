@@ -1,0 +1,25 @@
+﻿<Window x:Class="clientside.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:clientside"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="420">
+    <Grid>
+        <StackPanel>
+            <TextBlock Margin="10 0" FontSize="18">Ip</TextBlock>
+            <TextBox  Margin="10 0" FontSize="18" x:Name="SelectedIp" Height="30" ></TextBox>
+            <TextBlock Margin="10 0" FontSize="18">Port</TextBlock>
+            <TextBox Margin="10 0" FontSize="18" x:Name="SelectedPort" Height="30" ></TextBox>
+            <TextBlock Margin="10 0" FontSize="18">Image Path</TextBlock>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBox Margin="10 0" FontSize="18" x:Name="SelectedImage" Height="30" Width="300" HorizontalAlignment="Left" ></TextBox>
+                <Button FontSize="10"  Width="80" Height="30" Background="Yellow" Click="Button_Click" >Get Image</Button>
+            </StackPanel>
+
+            <Button Width="250" Margin="0 20 0 0" Height="30" Click="Button_Click_1" Background="Green" >Send Image</Button>
+        </StackPanel>
+    </Grid>
+</Window>

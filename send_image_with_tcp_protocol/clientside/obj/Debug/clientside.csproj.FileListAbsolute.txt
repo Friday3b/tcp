@@ -1,0 +1,15 @@
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\bin\Debug\clientside.exe.config
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\bin\Debug\clientside.exe
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\bin\Debug\clientside.pdb
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside.csproj.AssemblyReference.cache
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\MainWindow.g.cs
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\App.g.cs
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside_MarkupCompile.cache
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside_MarkupCompile.lref
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\MainWindow.baml
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside.g.resources
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside.Properties.Resources.resources
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside.csproj.GenerateResource.cache
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside.csproj.CoreCompileInputs.cache
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside.exe
+T:\Proqramlar\Visual studio\Projects\send_image_with_tcp_protocol\clientside\obj\Debug\clientside.pdb
